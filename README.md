@@ -6,7 +6,7 @@
 
 ### demo
 
-<a href="https://shushu-pro.github.io/mockv/" target="_blank" rel="noopener">playground</a>
+https://shushu-pro.github.io/mockv/
 
 ### 安装使用
 
