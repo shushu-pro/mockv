@@ -1,0 +1,21 @@
+{
+  "include": ["./src"],
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES5",
+    "lib": ["ES2017"],
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "baseUrl": "./",
+  },
+  "ts-node": {
+    "swc": true,
+    "transpileOnly": true,
+    "files": true,
+    // "require": ["tsconfig-paths/register"],
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  }
+}
