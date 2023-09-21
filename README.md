@@ -6,7 +6,7 @@
 
 ### demo
 
-https://sschen86.github.io/shushu-pro/mockv/
+https://shushu-pro.github.io/mockv/
 
 ### 安装使用
 
